@@ -7,3 +7,5 @@ def map(array)
   dune = ["paul", "gurney", "vladimir", "jessica", "chani"]\
   dune.map{|dune| dune}
 end 
+
+def map()
