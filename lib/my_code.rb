@@ -4,5 +4,6 @@ def map(array)
 end 
 
 def map(array)
-  array.map{|n|n}
+  dune = ["paul", "gurney", "vladimir", "jessica", "chani"]\
+  dune.map{|n|n}
 end 
